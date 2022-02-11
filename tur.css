@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+    margin: 0px
+}
+header { background-color: white; 
+display: flex}
+
+.div2 { background-color: white;
+
+padding: 40px;
+color: black;
+font-size:18px;
+font-family: cursive;
+
+
+}
+.div1 { background-color: white;
+
+
+}
+
+
+.div3 {
+    background-color: Azure;
+   
+    padding:20px;
+    
+display: flex;
+justify-content: space-around;
+border-radius: 20px;
+border: 1px solid Azure
+
+
+
+}
+.div2:hover 
+{
+background-image: linear-gradient(DodgerBlue, white);
+
+
+}
+.div4{}
+
+.obj1 {argin-left: 50px}
+.obj2 {argin-left: 24px}
+h1{ color: #000;
+  background: #fff;
+  mix-blend-mode: lighten;
+  font-size:30px;
+}
+.div5{display: flex;
+justify-content: space-around;
+}
+.div6:hover{margin-bottom: 50px;
+margin-top: 10px;
+transition: 0.3s margin linear;
+
+}
+.div6{margin-bottom: 30px;
+margin-top: 30px}
+.div7:hover{margin-bottom: 10px;
+margin-top: 50px;
+transition: 0.3s margin linear;
+
+}.div7{margin-bottom: 30px;
+margin-top: 30px;
+}
+.text {
+  background: url(https://img5tv.cdnvideo.ru/webp/shared/files/201908/1_960015.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: #000;
+  background: white;
+  mix-blend-mode: lighten;
+  font-size:50px;
+  text-align: center;
+  
+}
+.obj3{font-size:16px;
+text-align: center;
+padding: 70px;}
+.div9{border: 2px solid Silver;
+padding:2px;background-image:linear-gradient( white,white, DodgerBlue); }
+.div10{background-color: white;
+   
+    padding:30px;
+    
+display: flex;
+justify-content: space-around;
+border-radius: 20px;
+border: 1px solid LavenderBlush
+}
+.div11{background-color: DodgerBlue;
+border: 2px solid black;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.div12{display: flex;
+justify-content: space-around}
+footer{  background-color: dodgerblue;
+padding:40px}
+a{text-decoration: none;
+color: black;
+text-align: center;}
+
+
+.obj4{font-size:16px;
+text-align: center;}
